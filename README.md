@@ -1,2 +1,2 @@
 # portugol
-Códigos de algoritmos desenvolvidos em Portugol Studio
+Códigos de algoritmos desenvolvidos em Portugol Studio.
